@@ -1,0 +1,6 @@
+header {
+    width: 100vw;
+    height: 20vh;
+    background-image: url(/exercise7/images/bg_header.jpg);
+    background-repeat: repeat-x;
+}
